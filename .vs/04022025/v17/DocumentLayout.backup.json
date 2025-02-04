@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\007\\VS22\\C#-CS\\04022025\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AFB526FC-42BA-461F-8C73-FB814717A97A}|04022025.csproj|c:\\007\\vs22\\c#-cs\\04022025\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{AFB526FC-42BA-461F-8C73-FB814717A97A}|04022025.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AFB526FC-42BA-461F-8C73-FB814717A97A}|04022025.csproj|c:\\007\\vs22\\c#-cs\\04022025\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AFB526FC-42BA-461F-8C73-FB814717A97A}|04022025.csproj|C:\\007\\VS22\\C#-CS\\04022025\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AFB526FC-42BA-461F-8C73-FB814717A97A}|04022025.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AFB526FC-42BA-461F-8C73-FB814717A97A}|04022025.csproj|C:\\007\\VS22\\C#-CS\\04022025\\gpacalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AFB526FC-42BA-461F-8C73-FB814717A97A}|04022025.csproj|solutionrelative:gpacalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFB526FC-42BA-461F-8C73-FB814717A97A}|04022025.csproj|c:\\007\\vs22\\c#-cs\\04022025\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{AFB526FC-42BA-461F-8C73-FB814717A97A}|04022025.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AFB526FC-42BA-461F-8C73-FB814717A97A}|04022025.csproj|C:\\007\\VS22\\C#-CS\\04022025\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -26,36 +26,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Readme.md",
               "DocumentMoniker": "C:\\007\\VS22\\C#-CS\\04022025\\Readme.md",
               "RelativeDocumentMoniker": "Readme.md",
               "ToolTip": "C:\\007\\VS22\\C#-CS\\04022025\\Readme.md",
               "RelativeToolTip": "Readme.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2025-02-04T05:58:22.272Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "GPACalculator.cs",
               "DocumentMoniker": "C:\\007\\VS22\\C#-CS\\04022025\\GPACalculator.cs",
               "RelativeDocumentMoniker": "GPACalculator.cs",
               "ToolTip": "C:\\007\\VS22\\C#-CS\\04022025\\GPACalculator.cs",
               "RelativeToolTip": "GPACalculator.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAgwCsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T03:23:14.311Z"
+              "WhenOpened": "2025-02-04T03:23:14.311Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\007\\VS22\\C#-CS\\04022025\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -75,7 +76,8 @@
               "ToolTip": "C:\\007\\VS22\\C#-CS\\04022025\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T03:15:57.49Z"
+              "WhenOpened": "2025-02-04T03:15:57.49Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }
