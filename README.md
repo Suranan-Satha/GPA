@@ -29,6 +29,8 @@ classDiagram
         +Button btnClear
         +void btnAdd_Click(object sender, EventArgs e)
         +void btnClear_Click(object sender, EventArgs e)
+        +void UpdateUI()
     }
 
     Form1 --> GPACalculator : uses
+```

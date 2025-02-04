@@ -28,8 +28,8 @@ namespace _04022025
             {
                 double input = double.Parse(this.tb_input_GPA.Text);
                 gPACalculator.setGPA(input);
+                UpdateUI();
 
-                
                 this.tb_GPAx.Text = gPACalculator.getGPAX().ToString("F2");
                 this.tb_max.Text = gPACalculator.getMaxGPA().ToString("F2");
                 this.tb_min.Text = gPACalculator.getMinGPA().ToString("F2");
@@ -43,7 +43,7 @@ namespace _04022025
             {
                 MessageBox.Show("WRONGGGG");
                 this.tb_input_GPA.Text = string.Empty;
-            }
+            }   
 
         }
 
@@ -53,8 +53,15 @@ namespace _04022025
             this.tb_GPAx.Text = string.Empty;
             this.tb_max.Text = string.Empty;
             this.tb_min.Text = string.Empty;
+            UpdateUI();
         }
-
+        private void UpdateUI()
+        {
+            this.tb_GPAx.Text = gPACalculator.getGPAX().ToString("F2");
+            this.tb_max.Text = gPACalculator.getMaxGPA().ToString("F2");
+            this.tb_min.Text = gPACalculator.getMinGPA().ToString("F2");
+            this.tb_STD.Text = gPACalculator.getStudentCount().ToString();
+        }
 
 
 
