@@ -1,0 +1,10 @@
+C:\007\VS22\C#-CS\04022025\bin\Debug\04022025.exe.config
+C:\007\VS22\C#-CS\04022025\bin\Debug\04022025.exe
+C:\007\VS22\C#-CS\04022025\bin\Debug\04022025.pdb
+C:\007\VS22\C#-CS\04022025\obj\Debug\04022025.csproj.AssemblyReference.cache
+C:\007\VS22\C#-CS\04022025\obj\Debug\_04022025.Form1.resources
+C:\007\VS22\C#-CS\04022025\obj\Debug\_04022025.Properties.Resources.resources
+C:\007\VS22\C#-CS\04022025\obj\Debug\04022025.csproj.GenerateResource.cache
+C:\007\VS22\C#-CS\04022025\obj\Debug\04022025.csproj.CoreCompileInputs.cache
+C:\007\VS22\C#-CS\04022025\obj\Debug\04022025.exe
+C:\007\VS22\C#-CS\04022025\obj\Debug\04022025.pdb
